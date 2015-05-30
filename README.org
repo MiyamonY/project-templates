@@ -1,0 +1,6 @@
+* Project templates
+  These are simple projects templates for python etc.
+
+** Python Projects
+   .gitignore :: for git
+   pylintrc   :: for pylint
